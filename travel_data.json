@@ -1,0 +1,34 @@
+[
+    {
+        "date": "2026-06-30",
+        "name": "shruti soni",
+        "place": "lalpur",
+        "time": "8:25",
+        "mode": "walking",
+        "score": 80
+    },
+    {
+        "date": "2026-06-30",
+        "name": "shruti soni ",
+        "place": "lalpur",
+        "time": "12:00",
+        "mode": "walking",
+        "score": 80
+    },
+    {
+        "date": "2026-06-30",
+        "name": "shruti soni",
+        "place": "plaza chowk",
+        "time": "00:12",
+        "mode": "walking",
+        "score": 50
+    },
+    {
+        "date": "2026-06-30",
+        "name": "shruti soni",
+        "place": "delhi",
+        "time": "07:31",
+        "mode": "walking",
+        "score": 80
+    }
+]
